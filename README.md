@@ -1,4 +1,4 @@
-# Glass Transition Temperature
+# ANN-based ML Model
 • Utilized Python libraries such as NumPy, Pandas, TensorFlow, and Matplotlib to predict the Glass Transition
 Temperatures of Multicomponent Oxide Glasses with as high as 65 elements
 
